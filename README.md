@@ -1,3 +1,4 @@
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/1001/548/939/binary-code-computer-visual-effects-wallpaper-preview.jpg)
 <h1 align="center">Hi 👋, I'm Ömer Edebalı</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 
