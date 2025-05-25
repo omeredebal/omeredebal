@@ -70,4 +70,3 @@
 
 ---
 
-> “Siber güvenlik bir uzmanlık değil, bir disiplin meselesidir.”
