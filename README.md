@@ -42,13 +42,13 @@
 ## 📬 İletişim
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/omeredebal/">
+  <a href="https://www.linkedin.com/in/omeredebal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
-  <a href="https://medium.com/@omeredebal">
+  <a href="https://medium.com/@omeredebal" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30"/>
   </a>
-  <a href="mailto:omeredebal@hotmail.com">
+  <a href="mailto:omeredebal@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
 </p>
