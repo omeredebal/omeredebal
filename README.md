@@ -1,72 +1,56 @@
-<h1 align="center">👨‍💻 Ömer Edebalı</h1>
-<h3 align="center">Cybersecurity Enthusiast | Software Engineering Student | AI Explorer</h3>
+# 👨‍💻 Ömer Edebalı
+
+**Software Engineering Student** | **Cybersecurity & AI Enthusiast**  
+📍 İstanbul, Türkiye
 
 ---
 
+## 🔐 Hakkımda
+
+- 3. sınıf Yazılım Mühendisliği öğrencisiyim  
+- Siber güvenlik ve yapay zeka alanlarında çalışıyorum  
+- Web güvenliği, ağ analizi, sızma testleri ve güvenlik otomasyonlarına ilgi duyuyorum  
+- Python, Bash, JavaScript ve SQL ile projeler geliştiriyorum  
+
+---
+
+## 🛠️ Teknolojiler
+
+- **Diller:** Python, JavaScript, Bash, SQL  
+- **Araçlar:** Kali Linux, Burp Suite, Wireshark, Git, VS Code  
+- **Alanlar:** Web Güvenliği (OWASP), IDS/IPS, OSINT, Makine Öğrenmesi, CTF  
+
+---
+
+## 📌 Öne Çıkan Projeler
+
+- **SecScanner:** Python ile geliştirilmiş zafiyet tarayıcı  
+- **ML-Spam-Detector:** Türkçe SMS veri kümesinde spam tespiti  
+- **PassiveReconTool:** Pasif OSINT bilgi toplama aracı  
+
+---
+
+## 📈 GitHub İstatistikleri
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Siber%20G%C3%BCvenlik-E%C4%9Fitimi-blue?style=flat-square&logo=hackthebox" />
-  <img src="https://img.shields.io/badge/Yapay%20Zeka-%C4%B0lgili-brightgreen?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Linux-Hardening-orange?style=flat-square&logo=linux" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omeredebal&show_icons=true&theme=tokyonight&hide_title=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeredebal&layout=compact&theme=tokyonight" height="160px" />
 </p>
 
 ---
 
-### 🛡️ Hakkımda
+## 📬 İletişim
 
-- 👨‍🎓 Yazılım Mühendisliği 3. sınıf öğrencisiyim  
-- 🔐 Siber güvenlik, penetrasyon testleri ve sistem güvenliği konularında çalışıyorum  
-- 🤖 Yapay zeka ve makine öğrenmesi tabanlı güvenlik çözümleriyle ilgileniyorum  
-- 🛠️ Python, Bash, JavaScript, SQL gibi dillerde projeler geliştiriyorum  
-- 📚 Sürekli öğrenmeyi ve açık kaynak katkılarını önemsiyorum  
-
----
-
-### 🧰 Kullandığım Araçlar ve Teknolojiler
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-F47D20?style=flat-square&logo=burpsuite)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode)
-
----
-
-### 🔍 İlgi Alanlarım
-
-- Ağ Güvenliği ve IDS/IPS Sistemleri  
-- Web Uygulama Güvenliği (OWASP Top 10)  
-- Capture The Flag (CTF) ve HackTheBox  
-- Python ile Güvenlik Otomasyonları  
-- Yapay Zeka ile Anomali Tespiti  
-
----
-
-### 📌 Sabitlenen Projeler
-
-| Proje | Açıklama |
-|-------|----------|
-| 🔐 **SecScanner** | Python ile yazılmış bir web zafiyet tarayıcı |
-| 🧠 **ML-Spam-Detector** | Türkçe SMS veri kümesiyle makine öğrenmesi tabanlı spam tespiti |
-| 🕵️‍♂️ **PassiveReconTool** | OSINT tabanlı pasif bilgi toplama aracı |
-
----
-
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omeredebal&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omeredebal&theme=radical" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeredebal&layout=compact&theme=radical" alt="langs" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/omeredebal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="https://medium.com/@omeredebal">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30"/>
+  </a>
+  <a href="mailto:omeredebal@hotmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
 </p>
 
----
-
-### 📫 Bana Ulaşın
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omeredebal/)  
-[![Mail](https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omeredebal@hotmail.com)
-
----
 
