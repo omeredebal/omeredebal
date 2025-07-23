@@ -3,7 +3,7 @@
 📍 İstanbul, Türkiye
 ---
 ## 🧠 Hakkımda
-- 4. sınıf Yazılım Mühendisliği öğrencisiyim  
+- Son sınıf Yazılım Mühendisliği öğrencisiyim  
 - Yapay zeka ve makine öğrenmesi alanlarına ilgi duyuyorum.  
 - Computer Vision, NLP, Deep Learning ve AI güvenliği üzerine çalışıyorum. 
 - Python, TensorFlow, PyTorch ve scikit-learn ile AI projeleri geliştiriyorum.
