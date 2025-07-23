@@ -1,46 +1,38 @@
-# 👨‍💻 Ömer Edebalı
-
-**Software Engineering Student** | **Cybersecurity & AI Enthusiast**  
+# 🤖 Ömer Edebalı
+**AI Engineer & Software Developer Student** | **Machine Learning & Deep Learning Student**  
 📍 İstanbul, Türkiye
-
 ---
-
-## 🔐 Hakkımda
-
-- 3. sınıf Yazılım Mühendisliği öğrencisiyim  
-- Siber güvenlik ve yapay zeka alanlarında çalışıyorum  
-- Web güvenliği, ağ analizi, sızma testleri ve güvenlik otomasyonlarına ilgi duyuyorum  
-- Python, Bash, JavaScript ve SQL ile projeler geliştiriyorum  
-
+## 🧠 Hakkımda
+- 4. sınıf Yazılım Mühendisliği öğrencisiyim  
+- Yapay zeka ve makine öğrenmesi alanlarına ilgi duyuyorum.  
+- Computer Vision, NLP, Deep Learning ve AI güvenliği üzerine çalışıyorum. 
+- Python, TensorFlow, PyTorch ve scikit-learn ile AI projeleri geliştiriyorum.
 ---
-
-## 🛠️ Teknolojiler
-
-- **Diller:** Python, JavaScript, Bash, SQL  
-- **Araçlar:** Kali Linux, Burp Suite, Wireshark, Git, VS Code  
-- **Alanlar:** Web Güvenliği (OWASP), IDS/IPS, OSINT, Makine Öğrenmesi, CTF  
-
+## ⚡ Teknolojiler
+- **Diller:** Python, R, JavaScript, SQL  
+- **AI/ML:** TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, Hugging Face  
+- **Araçlar:** Jupyter, Google Colab, Docker, Git, MLflow, Weights & Biases  
+- **Alanlar:** Computer Vision, NLP, Deep Learning, Reinforcement Learning, MLOps  
 ---
-
-## 📌 Öne Çıkan Projeler
-
-- **SecScanner:** Python ile geliştirilmiş zafiyet tarayıcı  
-- **ML-Spam-Detector:** Türkçe SMS veri kümesinde spam tespiti  
-- **PassiveReconTool:** Pasif OSINT bilgi toplama aracı  
-
+## 🚀 Öne Çıkan Projekte
+- **AI-ChatBot:** Neo4j RAG Tabanlı ChatBot
+- **ImageClassifier-CNN:** Görüntü sınıflandırma için derin öğrenme modeli  
+- **MachineLearning:** Turkish-SMS-Spam-Message-Detection-Project-ML
+- **AutoML-Pipeline:** Otomatik makine öğrenmesi iş akışı  
 ---
-
-## 📈 GitHub İstatistikleri
-
+## 📊 GitHub İstatistikleri
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omeredebal&show_icons=true&theme=tokyonight&hide_title=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeredebal&layout=compact&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omeredebal&show_icons=true&theme=radical&hide_title=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeredebal&layout=compact&theme=radical" height="160px" />
 </p>
-
 ---
-
+## 🔬 AI Araştırma Alanları
+- **Computer Vision:** Nesne tespiti, görüntü segmentasyonu  
+- **Natural Language Processing:** Dil modelleri, sentiment analizi  
+- **Deep Learning:** CNN, RNN, LSTM, Transformer mimarileri  
+- **AI Ethics:** Sorumlu AI geliştirme ve bias detection  
+---
 ## 📬 İletişim
-
 <p align="left">
   <a href="https://www.linkedin.com/in/omeredebal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
@@ -52,5 +44,3 @@
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
 </p>
-
-
