@@ -24,13 +24,6 @@ Software Engineering student specializing in artificial intelligence and machine
 - **[SMS-Spam-Detection](link)** — Turkish language spam detection using ML
 - **[AutoML-Pipeline](link)** — Automated machine learning workflow
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omeredebal&show_icons=true&theme=default&hide_title=true&hide_border=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeredebal&layout=compact&theme=default&hide_border=true" height="160px" />
-</p>
-
 ## Research Interests
 
 - Computer Vision: Object detection, image segmentation
