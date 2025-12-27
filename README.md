@@ -1,46 +1,45 @@
-# 🤖 Ömer Edebalı
-**AI Engineer & Software Developer Student** | **Machine Learning & Deep Learning Student**  
-📍 İstanbul, Türkiye
+# Ömer Edebalı
+
+AI Engineer & Software Developer | Machine Learning Enthusiast
+
+📍 İstanbul, Türkiye | 📧 omeredebal@hotmail.com | [LinkedIn](https://www.linkedin.com/in/omeredebal/) | [Medium](https://medium.com/@omeredebal)
+
 ---
-## 🧠 Hakkımda
-- Son sınıf Yazılım Mühendisliği öğrencisiyim  
-- Yapay zeka ve makine öğrenmesi alanlarına ilgi duyuyorum.  
-- Computer Vision, NLP, Deep Learning ve AI güvenliği üzerine çalışıyorum. 
-- Python, TensorFlow, PyTorch ve scikit-learn ile AI projeleri geliştiriyorum.
----
-## ⚡ Teknolojiler
-- **Diller:** Python, R, JavaScript, SQL  
-- **AI/ML:** TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, Hugging Face  
-- **Araçlar:** Jupyter, Google Colab, Docker, Git, MLflow, Weights & Biases  
-- **Alanlar:** Computer Vision, NLP, Deep Learning, Reinforcement Learning, MLOps  
----
-## 🚀 Öne Çıkan Projekte
-- **AI-ChatBot:** Neo4j RAG Tabanlı ChatBot
-- **ImageClassifier-CNN:** Görüntü sınıflandırma için derin öğrenme modeli  
-- **MachineLearning:** Turkish-SMS-Spam-Message-Detection-Project-ML
-- **AutoML-Pipeline:** Otomatik makine öğrenmesi iş akışı  
----
-## 📊 GitHub İstatistikleri
+
+## About
+
+Software Engineering student specializing in artificial intelligence and machine learning. Currently focused on computer vision, natural language processing, and AI security research.
+
+## Technical Stack
+
+**Languages:** Python, R, JavaScript, SQL  
+**Frameworks:** TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, Hugging Face  
+**Tools:** Docker, Git, Jupyter, MLflow, Weights & Biases  
+**Focus Areas:** Computer Vision, NLP, Deep Learning, MLOps
+
+## Featured Projects
+
+- **[AI-ChatBot](link)** — Neo4j RAG-based conversational AI
+- **[ImageClassifier-CNN](link)** — Deep learning image classification model
+- **[SMS-Spam-Detection](link)** — Turkish language spam detection using ML
+- **[AutoML-Pipeline](link)** — Automated machine learning workflow
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omeredebal&show_icons=true&theme=radical&hide_title=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeredebal&layout=compact&theme=radical" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omeredebal&show_icons=true&theme=default&hide_title=true&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeredebal&layout=compact&theme=default&hide_border=true" height="160px" />
 </p>
+
+## Research Interests
+
+- Computer Vision: Object detection, image segmentation
+- Natural Language Processing: Language models, sentiment analysis
+- Deep Learning: CNN, RNN, Transformer architectures
+- AI Ethics: Responsible AI development and bias detection
+
 ---
-## 🔬 AI Araştırma Alanları
-- **Computer Vision:** Nesne tespiti, görüntü segmentasyonu  
-- **Natural Language Processing:** Dil modelleri, sentiment analizi  
-- **Deep Learning:** CNN, RNN, LSTM, Transformer mimarileri  
-- **AI Ethics:** Sorumlu AI geliştirme ve bias detection  
----
-## 📬 İletişim
-<p align="left">
-  <a href="https://www.linkedin.com/in/omeredebal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-  </a>
-  <a href="https://medium.com/@omeredebal" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30"/>
-  </a>
-  <a href="mailto:omeredebal@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-  </a>
+
+<p align="center">
+  <i>Open to collaboration on AI/ML projects</i>
 </p>
